@@ -1,3 +1,11 @@
+libcloud (0.20.0-1~precise0+exo1) precise; urgency=medium
+
+  * Backport for Precise.
+    + Drop Python 3 support.
+    + Don't use pybuild.
+
+ -- Vincent Bernat <bernat@debian.org>  Mon, 20 Jun 2016 11:26:10 +0200
+
 libcloud (0.20.0-1) unstable; urgency=medium
 
   * New upstream release.
