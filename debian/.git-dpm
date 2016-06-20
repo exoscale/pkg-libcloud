@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+461538ae2da785d4cbdc50cc184c056344d21355
+461538ae2da785d4cbdc50cc184c056344d21355
+9f43699c8db70bf9456d5bcc6b88c2566202545c
+9f43699c8db70bf9456d5bcc6b88c2566202545c
+libcloud_0.17.0.orig.tar.bz2
+5db5dd294d44d9d6678a4f54a03f6f1ec65f0be4
+663406
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
